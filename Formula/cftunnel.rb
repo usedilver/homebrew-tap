@@ -1,8 +1,8 @@
 class Cftunnel < Formula
   desc "CLI to manage Cloudflare Tunnels in a single command"
   homepage "https://github.com/usedilver/cloudflare-tunnel-cli"
-  url "https://github.com/usedilver/cloudflare-tunnel-cli/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "6dd5bfc435385f0342d1cc20e84d37d40901b1c45f5f4ca1db4fb1b3dd89ddf7"
+  url "https://github.com/usedilver/cloudflare-tunnel-cli/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "f18b905fed4a268ddf95a50cf33a8c11b9232a1d1439b0df89f3208c9239fea4"
   license "MIT"
 
   depends_on "cloudflare/cloudflare/cloudflared"
